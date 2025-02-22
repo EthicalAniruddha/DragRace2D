@@ -25,6 +25,8 @@ This is a simple 2D drag racing game built using the Raylib library.
 2.  **Compile the Code and run:**
     * Using GCC:
         ```bash
+        git clone https://github.com/EthicalAniruddha/DragRace2D
+        cd DragRace2D
         bash build.bash
         ```
 3.  **Assets:** Ensure that the `craftpix-889156-free-racing-game-kit/PNG/Car_1_Main_Positions/Car_1_01.png` and `craftpix-889156-free-racing-game-kit/PNG/Background_Tiles/Soil_Tile.png` files are in the same directory as the executable, or adjust the file paths within the code.
